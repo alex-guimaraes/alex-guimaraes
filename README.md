@@ -8,7 +8,6 @@
  🌱 I’m currently learning developement in front and back-end.<br>
  💞️ I’m looking to collaborate on projects .<br>
  📫 Connect with me on the LinkedIn<br>
- 😄 Pronouns: ...
 
 #### Contacts
 
